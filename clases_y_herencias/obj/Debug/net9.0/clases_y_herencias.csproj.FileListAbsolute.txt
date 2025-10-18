@@ -1,0 +1,15 @@
+C:\Users\yufar\new_copy\clases_y_herencias\bin\Debug\net9.0\clases_y_herencias.exe
+C:\Users\yufar\new_copy\clases_y_herencias\bin\Debug\net9.0\clases_y_herencias.deps.json
+C:\Users\yufar\new_copy\clases_y_herencias\bin\Debug\net9.0\clases_y_herencias.runtimeconfig.json
+C:\Users\yufar\new_copy\clases_y_herencias\bin\Debug\net9.0\clases_y_herencias.dll
+C:\Users\yufar\new_copy\clases_y_herencias\bin\Debug\net9.0\clases_y_herencias.pdb
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\clases_y_herencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\clases_y_herencias.AssemblyInfoInputs.cache
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\clases_y_herencias.AssemblyInfo.cs
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\clases_y_herencias.csproj.CoreCompileInputs.cache
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\clases_y_herencias.sourcelink.json
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\clases_y_herencias.dll
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\refint\clases_y_herencias.dll
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\clases_y_herencias.pdb
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\clases_y_herencias.genruntimeconfig.cache
+C:\Users\yufar\new_copy\clases_y_herencias\obj\Debug\net9.0\ref\clases_y_herencias.dll
